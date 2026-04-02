@@ -20,5 +20,5 @@ const arr= myarr.slice(1,4)
 console.log("B".arr)
 const arr2=myarr.slice(1,4)
 console.log(arr2)
-console.log (car,myarr)
+console.log ("c",myarr)
 
