@@ -1,12 +1,12 @@
 
-let val=true;
-user = "abc"; 
-Pwd ="123";
-if( user==="abc" && pwd===123){
+let val=true ;
+use = "abc" ;
+Password ="123" ;
+if( use==="abc" && Password===123){
 
 
 
-    console.log("user")
+    console.log("use")
 }else{
 
 
