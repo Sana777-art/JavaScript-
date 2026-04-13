@@ -4,7 +4,7 @@ for(let i=0; i<10;i++){
         continue
     }
 
-    console.log(`${i}.hey`)
+    console.log(`${i}.heyloo`)
 }
 
 let std1=["saima","dua","bisma","aysha","aliza" ]
